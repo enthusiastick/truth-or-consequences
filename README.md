@@ -7,7 +7,7 @@
 Icon | Character | Text
 --- | --- | ---
 ![Artist](https://wiki.bloodontheclocktower.com/images/e/e2/Artist_Icon.png) | **Artist** | Once per game, during the day, privately ask the Storyteller any yes/no question.
-![Agnostic](https://wiki.bloodontheclocktower.com/images/9/99/Atheist_icon.png) | **Agnostic** | Each night, you learn if you are drunk or poisoned; if you are sober & healthy, the Storyteller can break the game rules (except the rules regarding your ability) and if the Storyteller is executed, good wins.
+![Agnostic](https://raw.githubusercontent.com/enthusiastick/truth-or-consequences/main/img/agnostic-small.png) | **Agnostic** | Each night, you learn if you are drunk or poisoned; if you are sober & healthy, the Storyteller can break the game rules (except the rules regarding your ability) and if the Storyteller is executed, good wins.
 ![Chambermaid](https://wiki.bloodontheclocktower.com/images/0/00/Chambermaid_Icon.png) | **Chambermaid** | Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.
 ![Courtier](https://wiki.bloodontheclocktower.com/images/e/e7/Courtier_Icon.png) | **Courtier** | Once per game, at night, choose a character: they are drunk for 3 nights & 3 days.
 ![Clockmaker](https://wiki.bloodontheclocktower.com/images/2/2f/Clockmaker_Icon.png) | **Clockmaker** | You start knowing how many steps from the Demon to its nearest Minion.
